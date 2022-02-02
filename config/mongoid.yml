@@ -170,7 +170,7 @@ development:
 development:
   clients:
     default:
-      uri: mongodb+srv://shelbykohring:RxyERKzns3kNYqk@rails-login.mrngy.mongodb.net/test
+      uri: ENV[MONGO_ID]
 
 
       options:

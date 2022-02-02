@@ -66,3 +66,6 @@ gem "hotwire-rails", "~> 0.1.3"
 
 #add devise
 gem 'devise'
+
+#use dotenv
+gem 'dotenv'
